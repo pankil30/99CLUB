@@ -6,16 +6,6 @@ export default function City() {
   const [cityName, setCityName] = useState("");
   const [error, setError] = useState(""); // 1. Added error state
 
-  useEffect(() => {
-    const savedCity = sessionStorage.getItem("checkout_city");
-    if (savedCity) {
-      setCityName(savedCity);
-      // Re-validate if data is pulled from session storage
-      if (!/^[a-zA-Z\s]*$/.test(savedCity)) {
-        setError("City can only contain alphabets.");
-      }
-    }
-  }, []);
 
   const handleCityChange = (e) => {
     const value = e.target.value;
@@ -60,6 +50,19 @@ export default function City() {
         >
           Next
         </Link>
+        
+      </div>
+      <div className="rounded-xl border-l-4 border-yellow-400 bg-yellow-50  shadow-md mt-5">
+        <p className="text-gray-700 text-l leading-6 ml-2 my-0 p-2">
+          Please ensure that the information you provide is accurate and
+          complete. Your name, contact details, and address will be used for
+          order processing and timely delivery. Any mistakes in the details may
+          cause delays or failed deliveries. Double-check your entries before
+          proceeding to the next step. Providing a valid phone number and email
+          address will also help us contact you for updates regarding your
+          order. We value your trust and make every effort to ensure a smooth
+          and hassle-free shopping experience. Thank you for choosing us!
+        </p>
       </div>
     </CheckoutLayout>
   );

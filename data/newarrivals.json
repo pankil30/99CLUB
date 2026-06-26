@@ -3,56 +3,56 @@
     "id": 201,
     "slug": "tailored-wool-blazer",
     "name": "Tailored Wool Blazer",
-    "price": "₹285.00",
+    "price": "₹99.00",
     "img": "https://images.pexels.com/photos/1337477/pexels-photo-1337477.jpeg?auto=compress&cs=tinysrgb&w=800"
   },
   {
     "id": 202,
     "slug": "relaxed-linen-shirt",
     "name": "Relaxed Linen Shirt",
-    "price": "₹75.00",
+    "price": "₹99.00",
     "img": "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg?auto=compress&cs=tinysrgb&w=800"
   },
   {
     "id": 203,
     "slug": "pleated-wide-leg-trousers",
     "name": "Pleated Wide-Leg Trousers",
-    "price": "₹115.00",
+    "price": "₹99.00",
     "img": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=800"
   },
   {
     "id": 204,
     "slug": "suede-hobo-bag",
     "name": "Suede Hobo Bag",
-    "price": "₹195.00",
+    "price": "₹99.00",
     "img": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=800"
   },
   {
     "id": 205,
     "slug": "chunky-knit-cardigan",
     "name": "Chunky Knit Cardigan",
-    "price": "₹140.00",
+    "price": "₹99.00",
     "img": "https://images.pexels.com/photos/45982/pexels-photo-45982.jpeg?auto=compress&cs=tinysrgb&w=800"
   },
   {
     "id": 206,
     "slug": "leather-mules",
     "name": "Leather Mules",
-    "price": "₹135.00",
+    "price": "₹99.00",
     "img": "https://images.pexels.com/photos/267320/pexels-photo-267320.jpeg?auto=compress&cs=tinysrgb&w=800"
   },
   {
     "id": 207,
     "slug": "silk-midi-skirt",
     "name": "Silk Midi Skirt",
-    "price": "₹95.00",
+    "price": "₹99.00",
     "img": "https://images.pexels.com/photos/1007018/pexels-photo-1007018.jpeg?auto=compress&cs=tinysrgb&w=800"
   },
   {
     "id": 208,
     "slug": "oversized-trench-coat",
     "name": "Oversized Trench Coat",
-    "price": "₹310.00",
+    "price": "₹99.00",
     "img": "https://images.pexels.com/photos/2703202/pexels-photo-2703202.jpeg?auto=compress&cs=tinysrgb&w=800"
   }
 ]
