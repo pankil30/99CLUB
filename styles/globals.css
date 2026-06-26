@@ -1,0 +1,8 @@
+@import "tailwindcss";.input{
+@apply w-full p-4 rounded-xl border border-gray-200 outline-none mb-6;
+}
+
+
+.btn{
+@apply inline-block bg-[#0a122c] text-white px-10 py-4 rounded-full font-bold;
+}

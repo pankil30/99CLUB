@@ -1,0 +1,58 @@
+[
+  {
+    "id": 101,
+    "slug": "lightweight-bomber-jacket",
+    "name": "Lightweight Bomber Jacket",
+    "price": "₹155.00",
+    "img": "https://images.pexels.com/photos/1689731/pexels-photo-1689731.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 102,
+    "slug": "linen-blend-trousers",
+    "name": "Linen Blend Trousers",
+    "price": "₹85.00",
+    "img": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 103,
+    "slug": "short-sleeve-knit-polo",
+    "name": "Short Sleeve Knit Polo",
+    "price": "₹65.00",
+    "img": "https://images.pexels.com/photos/1232459/pexels-photo-1232459.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 104,
+    "slug": "canvas-low-top-sneakers",
+    "name": "Canvas Low Top Sneakers",
+    "price": "₹95.00",
+    "img": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 105,
+    "slug": "tortoiseshell-sunglasses",
+    "name": "Tortoiseshell Sunglasses",
+    "price": "₹120.00",
+    "img": "https://images.pexels.com/photos/701877/pexels-photo-701877.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 106,
+    "slug": "woven-leather-belt",
+    "name": "Woven Leather Belt",
+    "price": "₹45.00",
+    "img": "https://images.pexels.com/photos/1342609/pexels-photo-1342609.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 107,
+    "slug": "textured-cotton-overshirt",
+    "name": "Textured Cotton Overshirt",
+    "price": "₹110.00",
+    "img": "https://images.pexels.com/photos/1040893/pexels-photo-1040893.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 108,
+    "slug": "weekend-duffel-bag",
+    "name": "Weekend Duffel Bag",
+    "price": "₹180.00",
+    "img": "https://images.pexels.com/photos/3731256/pexels-photo-3731256.jpeg?auto=compress&cs=tinysrgb&w=800"
+  }
+]
