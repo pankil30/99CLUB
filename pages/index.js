@@ -30,7 +30,7 @@ export default function Home() {
     <>
       <Head>
         <link rel="icon" href="/99logo.png" sizes="any" />
-        <title>1999</title>
+        <title>99 Club</title>
       </Head>
 
       <style>{`
